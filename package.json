@@ -1,0 +1,7 @@
+{
+  "name": "tesma",
+  "private": true,
+  "scripts": {
+    "dev": "node server.js"
+  }
+}

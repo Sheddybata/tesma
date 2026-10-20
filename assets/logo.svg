@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="TESMA crest">
+  <defs>
+    <linearGradient id="navy" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#35408a"/>
+      <stop offset="100%" stop-color="#1d2558"/>
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="58" fill="url(#navy)" stroke="#f95f08" stroke-width="4"/>
+  <circle cx="60" cy="60" r="50" fill="none" stroke="#f95f08" stroke-width="1.2" opacity="0.7"/>
+  <path d="M60 22 L68.1 47.1 H94.5 L73.2 62.6 L81.3 87.8 L60 72.4 L38.7 87.8 L46.8 62.6 L25.5 47.1 H51.9 Z" fill="#f95f08"/>
+  <circle cx="60" cy="60" r="8" fill="#28326e"/>
+  <circle cx="60" cy="60" r="3.4" fill="#fff"/>
+</svg>
