@@ -2,6 +2,6 @@
   "name": "tesma",
   "private": true,
   "scripts": {
-    "dev": "node server.js"
+    "dev": "node dev-server.js"
   }
 }
